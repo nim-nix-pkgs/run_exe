@@ -87,11 +87,11 @@
     "src-run_exe-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1648158019,
-        "narHash": "sha256-nIZP0+W22Rtyocb/6Q0InYZn5iPk4pG+AQ911MIp31c=",
+        "lastModified": 1648262451,
+        "narHash": "sha256-KfWr2eUE1uUuw9JsZ4JP66mga57xWdjdzHBpk0U/+G4=",
         "owner": "V0idMatr1x",
         "repo": "run_exe",
-        "rev": "f3412277ee6c3a7abbd7cf5665efb4692da3176f",
+        "rev": "6daf872cbcaf8afc57a05b2da79ff52ec0252dce",
         "type": "github"
       },
       "original": {
